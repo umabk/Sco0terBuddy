@@ -8,5 +8,4 @@ microcontroller.
 
 ScooterBuddy.ino - Arduino IDE C file that puts everything together  
 Twitter.cpp & Twitter.h	- Twitter Library to send live tweets  
-keywords.txt -   
 pitches.h - Pitches to set a melody on the piezzo buzzers  
