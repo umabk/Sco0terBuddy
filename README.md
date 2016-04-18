@@ -6,3 +6,7 @@ Uses RGB LEDs, piezzo buzzers and an accelerometer.
 It will also post live updates to Twitter (see these on Twitter @Sco0terBuddy) using the Wifi shield on its Feather M0 
 microcontroller.
 
+ScooterBuddy.ino - Arduino IDE C file that puts everything together  
+Twitter.cpp & Twitter.h	- Twitter Library to send live tweets  
+keywords.txt -   
+pitches.h - Pitches to set a melody on the piezzo buzzers  
